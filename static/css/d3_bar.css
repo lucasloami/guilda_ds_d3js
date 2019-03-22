@@ -1,0 +1,11 @@
+.chart {
+  background-color: #C7D9D9;
+}
+
+.chart1, .chart2, .chart3, .chart4, .chart5 {
+  border: 1px solid black; 
+}
+
+.bar {
+  fill: steelblue;
+}
